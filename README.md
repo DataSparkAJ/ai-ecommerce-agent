@@ -187,8 +187,10 @@ python main.py
 
 ## 👨‍🎓 Author
 
-Ajay Singh
+## Ajay Singh
+
 Individual Participant — Google AI Agents Intensive (5-Day Capstone)
+
 Student & AI Enthusiast
 
 ## 📜 License
