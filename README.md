@@ -195,4 +195,7 @@ Student & AI Enthusiast
 ## 📜 License
 
 This project is intended for educational, research and non-commercial portfolio purposes.
-Datasets may require separate licensing based on source.
+
+Dataset Source:
+Global Superstore E-Commerce Dataset
+https://www.kaggle.com/datasets/vivek468/global-super-store-dataset
