@@ -197,5 +197,5 @@ Student & AI Enthusiast
 This project is intended for educational, research and non-commercial portfolio purposes.
 
 Dataset Source:
-Global Superstore E-Commerce Dataset
+Dataset Source: E-Commerce Website Sales Data, Kaggle  
 https://www.kaggle.com/datasets/sivm205/e-commerce-website-sales-data
