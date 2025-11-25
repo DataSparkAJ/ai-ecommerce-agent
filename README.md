@@ -125,33 +125,33 @@ ReportAgent → Export multi-page PDF
 
 ├── agents/
 
-│   ├── data_agent.py
+│    ├── data_agent.py
 
-│   ├── analysis_agent.py
+│    ├── analysis_agent.py
 
-│   ├── viz_agent.py
+│    ├── viz_agent.py
 
-│   ├── insight_agent.py
+│    ├── insight_agent.py
 
-│   └── report_agent.py
+│    └── report_agent.py
 
 │
 
 ├── tools/
 
-│   ├── analysis_tool.py
+│    ├── analysis_tool.py
 
-│   └── viz_tool.py
+│    └── viz_tool.py
 
 │
 
 ├── static/
 
-│   └── fonts/
+│    └── fonts/
 
-│       ├── Montserrat-Regular.ttf
+│        ├── Montserrat-Regular.ttf
 
-│       └── Montserrat-Bold.ttf
+│        └── Montserrat-Bold.ttf
 
 │
 
