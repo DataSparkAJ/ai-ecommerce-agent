@@ -56,15 +56,25 @@ This system uses a multi-agent pipeline to automate business intelligence.
 ## 🏗 Architecture Flow
 
 main.py
+
    ↓
+   
 DataAgent → Load & clean dataset
+
    ↓
+   
 AnalysisAgent → Compute sales & profit KPIs
+
    ↓
+   
 VizAgent → Generate static charts (PNG)
+
    ↓
+   
 InsightAgent (Gemini) → Business insights & strategy
+
    ↓
+   
 ReportAgent → Export multi-page PDF
 
 
