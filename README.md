@@ -198,4 +198,4 @@ This project is intended for educational, research and non-commercial portfolio 
 
 Dataset Source:
 Global Superstore E-Commerce Dataset
-https://www.kaggle.com/datasets/vivek468/global-super-store-dataset
+https://www.kaggle.com/datasets/sivm205/e-commerce-website-sales-data
