@@ -1,3 +1,6 @@
+
+<img width="2816" height="1536" alt="Gemini_Generated_Image_h5aayoh5aayoh5aa" src="https://github.com/user-attachments/assets/6341444c-3ca2-4947-afa8-08915c39bbc7" />
+
 ### 🧠 AI Ecommerce Insight Agent
 ## Multi-Agent Business Intelligence System Powered by Gemini
 ## 📌 Overview
@@ -53,29 +56,13 @@ This system uses a multi-agent pipeline to automate business intelligence.
 ## 📌 Only KPI summaries are sent to Gemini
 → Lower cost, faster inference, and focused analysis (context engineering).
 
+
 ## 🏗 Architecture Flow
 
-main.py
+<img width="2816" height="1536" alt="Gemini_Generated_Image_h5aayoh5aayoh5aa (1)" src="https://github.com/user-attachments/assets/655ac745-5e1d-4f53-8794-29ffb199ad1e" />
 
-   ↓
-   
-DataAgent → Load & clean dataset
 
-   ↓
-   
-AnalysisAgent → Compute sales & profit KPIs
 
-   ↓
-   
-VizAgent → Generate static charts (PNG)
-
-   ↓
-   
-InsightAgent (Gemini) → Business insights & strategy
-
-   ↓
-   
-ReportAgent → Export multi-page PDF
 
 
 ## 📊 KPIs Generated
