@@ -86,12 +86,12 @@ This system uses a multi-agent pipeline to automate business intelligence.
 Here is a glimpse of the insights generated:
 
 ### 1. Automated Analysis Charts
-![Profit Analysis](./profit_by_category.png)
-![Margin Analysis](./discount_vs_margin.png)
+![Profit Analysis](Ai-ecommerce-agent/profit_by_category.pngprofit_by_category.png)
+![Margin Analysis](Ai-ecommerce-agent/profit_by_category.pngdiscount_vs_margin.png)
 
 ### 2. Full PDF Report
 The agent successfully generated a detailed PDF report.
-📥 **[Click here to view the Full PDF Report](AI_Ecommerce_Insight_Agent_Report.pdf)**
+📥 **[Click here to view the Full PDF Report](Ai-ecommerce-agent/profit_by_category.pngAI_Ecommerce_Insight_Agent_Report.pdf)**
 
 
 ## 📄 Report Output (PDF Contents)
