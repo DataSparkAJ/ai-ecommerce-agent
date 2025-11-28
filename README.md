@@ -86,8 +86,8 @@ This system uses a multi-agent pipeline to automate business intelligence.
 Here is a glimpse of the insights generated:
 
 ### 1. Automated Analysis Charts
-![Profit Analysis](profit_by_category.png)
-![Margin Analysis](discount_vs_margin.png)
+![Profit Analysis](./profit_by_category.png)
+![Margin Analysis](./discount_vs_margin.png)
 
 ### 2. Full PDF Report
 The agent successfully generated a detailed PDF report.
